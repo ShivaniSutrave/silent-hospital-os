@@ -1,0 +1,8 @@
+venv/
+healthcare/
+__pycache__/
+*.pkl
+*.csv
+best_accuracy.txt
+dashboard_backup.py
+hospital_data.csv
